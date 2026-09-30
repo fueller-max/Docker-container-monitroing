@@ -13,4 +13,4 @@ For Docker containers monitroing use such stack: Prometheus, cAdvisor, and Grafa
 
 #### Example of Grafan`s dashboard:
 
-![](/monitoring/pics/dashboard_cadvisor.png)
+![](https://github.com/fueller-max/Docker-container-monitroing/blob/main/pics/dashboard_cadvisor.png)
